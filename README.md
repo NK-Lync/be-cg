@@ -166,7 +166,7 @@ Bảng `Class` được tạo thành công trong CSDL `student-management`.
 
 #### Ảnh minh chứng tạo bảng `Class`
 
-![Tạo bảng Class bằng MySQL Workbench](./Tạo%20bảng%20Class%20MySQL%20Workbench.png)
+![Tạo bảng Teacher và Class bằng MySQL Workbench](./Tạo%20bảng%20Teacher%20và%20Class%20bằng%20MySQL%20Workbench.png)
 
 ---
 
@@ -212,7 +212,7 @@ Bảng `Teacher` được tạo thành công trong CSDL `student-management`.
 
 #### Ảnh minh chứng tạo bảng `Teacher`
 
-![Tạo bảng Teacher bằng MySQL Workbench](./Tạo%20bảng%20Teacher%20MySQL%20Workbench.png)
+![Tạo bảng Teacher và Class bằng MySQL Workbench](./Tạo%20bảng%20Teacher%20và%20Class%20bằng%20MySQL%20Workbench.png)
 
 ---
 
